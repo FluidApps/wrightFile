@@ -8,7 +8,8 @@
 
   function wrightFile(filename, data, options, callback) {
     if (typeof options === 'function') {
-      callback = options = {
+      callback = options;
+      options = {
         overwrite: true
       };
     }

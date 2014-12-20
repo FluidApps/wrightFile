@@ -1,7 +1,7 @@
 {
   "name": "wrightfile",
   "description": "Wraps fs.writeFile, mkdirp and other neatness.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/FluidApps/wrightFile",
   "author": {
     "name": "FluidApps",
